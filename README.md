@@ -3,12 +3,12 @@
   </br>
 
 
-<p align="center">
+<div align="center">
   <img align="center"
        alt="Carlos Vinícius Github stats"
        style = "margin-bottom: 10px;"
        height = "170" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinicarlosss&show_icons=true&theme=midnight-purple&layout=compact)" />
-</p>
+</div>
 
 
 
