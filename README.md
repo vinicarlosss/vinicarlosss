@@ -57,3 +57,6 @@
     </p>  
   
 </details>
+<br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vinicarlosss&repo=github-readme-stats)](https://github.com/vinicarlosss/vinicarlosss/edit/main/README.md)
+                                                                                                                    
