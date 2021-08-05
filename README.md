@@ -1,5 +1,6 @@
 <h1 align="center"> Hi👋 Welcome to my github profile i'm Carlos :woman_technologist:</h1>
   </br>
+<p>A Front-end and Python developer under construction :man_student: from Recife, Brazil</p>
 <h4 align="center" > Contact: </h4>
 
 <p align="center">
