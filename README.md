@@ -41,3 +41,4 @@
       <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white" />
     </p>
   </samp>
+</details>
