@@ -41,12 +41,10 @@
   </samp>
     <h4>🔨 Frameworks & Libraries: </h4><br/>
    <samp>
-     
     <p align="left">
      <img alt="React" src="https://img.shields.io/badge/-React%20JS-262B32?style=flat-square&logo=react&logoColor=00D0F6" />
      <img alt="Styled Components" src="https://img.shields.io/badge/-Styled%20Components-FFC8CB?style=flat-square&logo=styledcomponents&logoColor=black" />
-    </p>
-     
+    </p>      
   </samp>
   
   <h4>📦 Database:</h4><br/>
