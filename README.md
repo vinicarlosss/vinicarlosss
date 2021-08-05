@@ -40,11 +40,10 @@
     </p>
   </samp>
     <h4>🔨 Frameworks & Libraries: </h4><br/>
-  <samp>
-        <p align="left">
-      <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript%20ES6-F7B93E?style=flat-square&logo=javascript&logoColor=black" />
-      <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-      <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white" />
+   <samp>
+    <p align="left">
+     <img alt="React" src="https://img.shields.io/badge/-React%20JS-262B32?style=flat-square&logo=react&logoColor=00D0F6" />
+     <img alt="Styled Components" src="https://img.shields.io/badge/-Styled%20Components-FFC8CB?style=flat-square&logo=styledcomponents&logoColor=black" />
     </p>
   </samp>
 </details>
