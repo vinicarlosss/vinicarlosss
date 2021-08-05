@@ -1,14 +1,19 @@
 <h1 align="center"> Hi👋 Welcome to my github profile i'm Carlos :woman_technologist:</h1>
   </br>
 <h4 align="center" > Contact: </h4>
+
 <p align="center">
   <a href="https://www.instagram.com/vinicarlosss/" target="_blank" style="text-decoration: none;">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  
+  <a href="https://www.linkedin.com/in/carlos-vin%C3%ADcius-7a963b205/" target="_blank" style="text-decoration: none;">
+    <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  
+  <a href="mailto:carlos.viniciusufrpe@gmail.com" target="_blank" style="text-decoration: none;">
+    <img alt="Email" src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white"></a>
 </p>
 
-
 <br>
-
 
 <p align="center">
   <img align="center"
