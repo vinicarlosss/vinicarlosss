@@ -1,6 +1,18 @@
 <h1 align="center"> Hi👋, Welcome to my github i'm Carlos :woman_technologist:</h1>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinicarlosss&show_icons=true&theme=midnight-purple&layout=compact) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicarlosss&theme=midnight-purple&layout=compact)](https://github.com/vinicarlosss/vinicarlosss/blob/main/README.md)
+
+
+<p align="center">
+  <img align="center"
+       alt="Carlos Vinícius Github stats"
+       style = "margin-bottom: 10px;"
+       height = "170" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinicarlosss&show_icons=true&theme=midnight-purple&layout=compact)" />
+  <img align="center"
+       alt="Most used languages"
+       style="margin-bottom: 10px;"
+       src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinicarlosss&show_icons=true&theme=midnight-purple&layout=compact) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicarlosss&theme=midnight-purple&layout=compact)](https://github.com/vinicarlosss/vinicarlosss/blob/main/README.md)" />
+  </p>
+
 
 
 
