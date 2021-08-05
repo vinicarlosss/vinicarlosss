@@ -28,23 +28,7 @@
 </p>
 <br>
 
-
-
-
-
-
-
-<!--
-**vinicarlosss/vinicarlosss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+  <sumary style="cursor: pointer;"> <b style="font-size: 18px;" >💻 Some Technologies </b> <i style="color: #79c0ff;">(Click here to expand) </i>
+    </summary>
+  <br>
