@@ -55,6 +55,15 @@
     <p align="left">
       <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white" />
     </p>  
+  <h4>🔧 tools</h4><br/>   
+    <p align="left">
+      <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      <img alt="VS Code" src="https://img.shields.io/badge/-VSCode-0085D1?style=flat-square&logo=visual-studio-code&logoColor=white" />
+      <img alt="Node.js" src="https://img.shields.io/badge/-Node.JS-026e00?style=flat-square&logo=node.js&logoColor=white" />
+      <img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+      <img alt="Windows" src="https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white" />
+      <img alt="Linux" src="https://img.shields.io/badge/-Linux-111?style=flat-square&logo=linux&logoColor=white" />
+    </p>                                                                                                                     
   
 </details>
 <br>
