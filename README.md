@@ -9,8 +9,8 @@
   <a href="https://www.linkedin.com/in/carlos-vin%C3%ADcius-7a963b205/" target="_blank" style="text-decoration: none;">
     <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   
-  <a href="mailto:carlos.viniciusufrpe@gmail.com" target="_blank" style="text-decoration: none;" height="150">
-    <img alt="Email" src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white"></a>
+  <a href="mailto:carlos.viniciusufrpe@gmail.com" target="_blank" style="text-decoration: none;">
+    <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 <br>
