@@ -1,6 +1,9 @@
-<h1 align="center"> Hi👋, Welcome to my github i'm Carlos :woman_technologist:</h1>
+<h1 align="center"> Hi👋 Welcome to my github profile i'm Carlos :woman_technologist:</h1>
 <samp>
   </br>
+<h4 align="center" > Contact: </h4>
+<br>
+
 
 <p align="center">
   <img align="center"
@@ -12,6 +15,7 @@
        style="margin-bottom: 10px;"
        src = "https://github-readme-stats.vercel.app/api/top-langs/?username=vinicarlosss&theme=midnight-purple&layout=compact" />
 </p>
+<br>
 
 
 
